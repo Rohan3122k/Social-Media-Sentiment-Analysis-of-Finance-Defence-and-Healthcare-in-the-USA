@@ -1,4 +1,4 @@
-# Finance Defence and Healthcare : A Trump vs. Biden Data Story
+# Social Media Sentiment Analysis of Finance, Defence, and Healthcare in the USA
 # Project Description: 
 
 This project provides a comprehensive, data-driven analysis of three critical sectors - Finance, Defense, and Healthcare , under the administrations of Donald Trump and Joe Biden. By leveraging a robust dataset of 10,542 APIs, this study explores the economic and policy implications of the Trump presidency, particularly in light of his victory in the 2024 U.S. presidential election.

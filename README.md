@@ -1,4 +1,7 @@
-# Social Media Sentiment Analysis of Finance, Defence, and Healthcare in the USA
+# Social Media Sentiment Analysis of Finance, Defence, and Healthcare in the USA : 
+
+url : https://sites.google.com/view/rohanverma-project1
+
 # Project Description: 
 
 This project provides a comprehensive, data-driven analysis of three critical sectors - Finance, Defense, and Healthcare , under the administrations of Donald Trump and Joe Biden. By leveraging a robust dataset of 10,542 APIs, this study explores the economic and policy implications of the Trump presidency, particularly in light of his victory in the 2024 U.S. presidential election.
@@ -31,5 +34,3 @@ In defense, Trump’s emphasis on military strength, national security, and aggr
 Finally, in healthcare, Trump’s policies, which emphasized deregulation and market-driven growth, contributed to higher employment levels in key healthcare sectors. His approach resonated with those who prioritized immediate job creation and economic resilience. On the other hand, Biden’s healthcare reforms, focused on equity and long-term structural investments, created significant growth in community and eldercare roles but were criticized for their slower pace of job creation. This difference highlights the tension between Trump’s focus on short-term workforce stability and Biden’s vision for sustainable, equitable growth in healthcare.
 
 As Trump returns to power, his leadership style—centered around immediate economic recovery, military strength, and business friendly policies that may continue to appeal to voters seeking stability and growth. However, Biden’s focus on structural reforms, social equity, and international cooperation will likely remain influential as the debate over the future of U.S. governance continues. The nation faces a choice between prioritizing immediate outcomes or investing in reforms for a more sustainable future.
-
-url : https://sites.google.com/view/rohanverma-project1
